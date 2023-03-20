@@ -15,7 +15,7 @@
 - Computational algo's
  - Given one set of data calc another
 
-- Copllection algos
+- Collection algos
  - work with a collection of data, navigate, filter
 
 
